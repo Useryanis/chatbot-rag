@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+memoire_pdf_locale/
+cours.pdf
+*.html
